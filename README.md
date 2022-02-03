@@ -1,8 +1,7 @@
-# simples exemplo de Cartao visitas ,utilizando a denpendencia url_launcher.
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/98062365/152418055-dd86ae1f-2204-409e-81dc-2f927977c2cc.gif)
+# Simples exemplo de Cartao visitas ,utilizando a denpendencia url_launcher.
 
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/98062365/152304220-55e74ac9-8656-4c52-9b4f-bf1443f582e1.gif)
+![callGit](https://user-images.githubusercontent.com/98062365/152444089-df7a9863-d30a-4b90-bee5-711968a95bbd.gif)
+![callPhone](https://user-images.githubusercontent.com/98062365/152444099-d253a7e2-60e7-41c9-9f01-6f73b7e29152.gif)
 
 A new Flutter project.
 //teste
