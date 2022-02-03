@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:projeto9/screens/list_user.dart';
 
-import 'homepage.dart';
+import 'pages/homepage.dart';
 
 void main() {
   runApp(const MyApp());
@@ -20,7 +19,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: HomePage(),
+      home:  HomePage(),
     );
   }
 }
