@@ -56,6 +56,7 @@ class HomePage extends StatelessWidget {
               const SizedBox(
                 height: 10,
               ),
+              //informaçoes sobre o text
               const Text(
                 'Desenvolvedor Flutter',
                 style: TextStyle(fontSize: 20, color: Colors.white),
