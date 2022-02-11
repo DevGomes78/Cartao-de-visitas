@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:projeto9/Widgets/AppTextStyle.dart';
 import 'package:projeto9/Widgets/call_email.dart';
 import 'package:projeto9/Widgets/call_git.dart';
-import 'package:projeto9/Widgets/call_widget.dart';
+import 'package:projeto9/Widgets/call_Phone.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -44,7 +44,6 @@ class HomePage extends StatelessWidget {
                 const SizedBox(
                   height: 10,
                 ),
-                //informaçoes sobre o text
                 Text(
                   'Desenvolvedor Flutter',
                   style: AppTextStyle.SubMain,
