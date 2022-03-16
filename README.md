@@ -1,4 +1,4 @@
-# Simples exemplo de Cartao visitas ,utilizando a denpendencia url_launcher.
+# Simples exemplo App de Cartao visitas ,utilizando a denpendencia url_launcher.
 
 ![callPhone](https://user-images.githubusercontent.com/98062365/152444099-d253a7e2-60e7-41c9-9f01-6f73b7e29152.gif)
 ![CallGit](https://user-images.githubusercontent.com/98062365/152444679-b9b39155-3102-48f5-9475-76f4083f6677.gif)
