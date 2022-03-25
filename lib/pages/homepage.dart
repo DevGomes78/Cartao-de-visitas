@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:projeto9/Widgets/app_text.dart';
 import 'package:projeto9/Widgets/container.dart';
 import 'package:projeto9/models/call_github.dart';
-import 'package:projeto9/models/call.dart';
+import 'package:projeto9/models/call_phone.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -61,7 +61,7 @@ class HomePage extends StatelessWidget {
                 height: 20,
               ),
               InkWell(
-                onTap: fazerLigacao,
+                onTap: callPhone,
                 child: ContainerWidget(
                   child: Row(
                     children: [
@@ -74,7 +74,7 @@ class HomePage extends StatelessWidget {
                           color: Colors.red,
                         ),
                       ),
-                      SizedBox(width: 10),
+                      const SizedBox(width: 10),
                       Text('(11)982155598',
                           style: AppTextStyle.Textblack18),
                     ],
