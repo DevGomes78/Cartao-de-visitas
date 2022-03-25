@@ -18,7 +18,7 @@ class ContainerWidget extends StatelessWidget {
       height: 60,
       width: 390,
       decoration: BoxDecoration(
-        borderRadius: BorderRadius.circular(40),
+        borderRadius: BorderRadius.circular(10),
         color: Colors.white,
       ),
       child: child,
