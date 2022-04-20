@@ -1,4 +1,4 @@
-<h1>Desafio Cartao de Visitas Cep</h1>
+<h1>Desafio Cartao de Visitas</h1>
  > Status: em Desenvolvimento ⚠️
 
 ### O objetivo desse desafio é criar um Cartao de Visitas e ao clicar nos botaos direcionar para a pagina do github,acessar telefone e email respectivamente.
